@@ -1,4 +1,4 @@
-v2.0.1
+v2.0.2
 
 * [`799018`](https://github.com/azawakh/experimental_package/commit/799018f62fbadc13d0d62e675aad7e2e9051ed37) feat: add how are you (#11) (azawakh)
 
