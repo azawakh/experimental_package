@@ -6,6 +6,14 @@
     "type": "git",
     "url": "git+https://github.com/azawakh/experimental_package.git"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
   "author": "azawakh <azawakhh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "twsh": "^1.0.2"
+  }
 }
