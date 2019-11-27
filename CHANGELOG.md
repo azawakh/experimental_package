@@ -1,3 +1,7 @@
+v2.0.1
+
+* [`799018`](https://github.com/azawakh/experimental_package/commit/799018f62fbadc13d0d62e675aad7e2e9051ed37) feat: add how are you (#11) (azawakh)
+
 v2.0.0
 
 * [`3409f0d`](https://github.com/azawakh/experimental_package/commit/3409f0d149535648d319126ff931f8d935a1ff0d) feat: Add twsh (#7) (azawakh)
